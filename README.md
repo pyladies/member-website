@@ -40,7 +40,8 @@ You can look at your repository > settings > GitHub Pages for more information o
 
 ## Questions?
 
-Ask for help in the [PyLadies Slack](slackin.pyladies.com) in the `#project-tech-infra` channel.
+For problems with the website, ask for help in the [PyLadies Slack](slackin.pyladies.com) in the `#project-tech-infra` channel. Questions 
+related to membership and chapter directory can use the `#project-admin-logistics` Slack channel.
 
 ## Acknowledgements
 
